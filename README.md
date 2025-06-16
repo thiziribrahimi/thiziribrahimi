@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahimithiziri&label=Profile%20views&color=0e75b6&style=flat" alt="brahimithiziri" /> </p>
 
-- 🔭 I’m currently working on **AWS certification**
-
-- 🌱 I’m currently learning **Angular, Firebase**
+- 🌱 I’m currently learning **Angular, Firebase, React**
 
 - 💬 Ask me about **JAVA**
 
